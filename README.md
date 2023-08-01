@@ -2,10 +2,6 @@
 This script will batch convert .trec files from Camtasia to .mp4 files.
 
 
-## Notes
-
-Change input and output paths to include "C:\\" on Windows, must have double "\\" in-between as directory separators. For Mac, use a single "/" in-between all directory separators.
-
 
 ## Prerequisites
 Before running the script, ensure that you have the following installed:
@@ -83,3 +79,6 @@ The script will display messages indicating the progress of the conversion for e
 - This script assumes that the .trec and .mp4 files are compatible with FFmpeg. If you encounter any issues with specific file formats or codecs, you may need to adjust the script or update FFmpeg accordingly.
 
 - It's essential to have a basic understanding of FFmpeg and Python to modify and troubleshoot the script as needed.
+
+### Credits
+Made by Sarah Brabham, with use of ChatGPT.
